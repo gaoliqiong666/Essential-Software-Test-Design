@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [前言：BY JAMES BACH](前言：BY JAMES BACH.md)
+* [前言:BY JAMES BACH](前言:BY JAMES BACH.md)
 * [前言：BY STUART REID](前言：BY STUART REID.md)
 * [作者序](作者序.md)
 * [1 前言](1 前言.md)
