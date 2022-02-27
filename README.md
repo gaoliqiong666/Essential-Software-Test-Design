@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [前言:BY-JAMES-BACH](前言:BY-JAMES-BACH.md)
-* [前言：BY STUART REID](前言：BY STUART REID.md)
+* [前言:BY-STUART-REID](前言:BY-STUART-REID.md)
 * [作者序](作者序.md)
 * [1前言](1前言.md)
   * [1.1这本书的目的是写给谁的呢](1.1这本书的目的是写给谁的呢.md)
